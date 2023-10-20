@@ -12,7 +12,7 @@ Step 2: Right-click on the project name and select New->RESTful Web Services fro
 
 
 
-Step 3: A new window will appear. Select “Simple Root Resource” and click Next.
+Step 3: A new window will appear. Select “Simple Root Resource” and click Next. 
  
  
 ![image](https://github.com/SandeepaNagaraj/Ex-04_RESTful_Web_Services/assets/113017853/8eca6031-2a0f-4839-8339-500fa6041b09)
